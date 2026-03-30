@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "990471821524",
+    "project_id": "samutaxi-68b0e",
+    "storage_bucket": "samutaxi-68b0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990471821524:android:ce2feede621704027dc341",
+        "android_client_info": {
+          "package_name": "com.arshtech.samux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnBkWcICLuadLFIJvK0BZF2dZpQNgyac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990471821524:android:c547cf9be25402057dc341",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnBkWcICLuadLFIJvK0BZF2dZpQNgyac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990471821524:android:e1bc245bfb80b9747dc341",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnBkWcICLuadLFIJvK0BZF2dZpQNgyac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
